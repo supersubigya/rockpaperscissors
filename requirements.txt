@@ -1,0 +1,4 @@
+os
+gtts
+random
+playsound
